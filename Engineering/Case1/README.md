@@ -15,7 +15,7 @@
 
 No contexto do projeto do Goal operávamos no formato de startup, utilizando o famoso ciclo: **build, measure & learn** definido pelo *Eric Ries*.
 
-Num determinado momento do nosso projeto, identificamos que o processo de desenvolvimento tradicional de projetos de software não estava entregando para nós a agilidade que precisávamos para rodar experimentos de forma rápida, medir resultados e gerar aprendizados para tomar decisão de persistir ou pivotar o desenvolvimento de uma determinada feature.
+Num determinado momento do nosso projeto, identificamos que o processo de desenvolvimento tradicional de projetos de software, não estava entregando para nós a agilidade que precisávamos para rodar experimentos de forma rápida, medir resultados e gerar aprendizados para tomar decisão de persistir ou pivotar o desenvolvimento de uma determinada feature.
 
 Neste contexto, ficamos incomodados e provocados para estudar e buscar uma estratégia que trouxesse a agilidade necessária para uma startup conseguir gerar aprendizados rápidos e investir recursos(*tempo, dinheiro, talentos, etc...*) somente no que realmente fosse um problema ou job to be done dos nossos clientes.
 
