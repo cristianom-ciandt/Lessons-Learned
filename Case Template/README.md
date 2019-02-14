@@ -11,6 +11,9 @@
 
 ## Solução ou End-State
 
+## Resultados obtidos
+***Conteúdo Opcional***
+
 ## Contato de pessoas importantes de se conhecer.
 ***Conteúdo Opcional***
 

@@ -16,7 +16,6 @@ Os cases compartilhados estão organizados por temas e podem ser encontrados nos
 
 [Microservices](https://github.com/cristianom-ciandt/Lessons-Learned/tree/master/Microservices)
 
-
 [Plataform Modernization](https://github.com/cristianom-ciandt/Lessons-Learned/tree/master/Plataform-Modernization)
 
 [Quality Assurance](https://github.com/cristianom-ciandt/Lessons-Learned/tree/master/Quality-Assurance)

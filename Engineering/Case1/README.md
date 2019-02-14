@@ -1,3 +1,5 @@
+# Reduzindo o leadtime da construção de experimentos
+
 ## Palavras chave:
 * Startup
 * Experimentos
@@ -57,6 +59,9 @@ As principais dores e desafios para gente que sempre tinha trabalhado com projet
 * No primeiro momento, pensou se que estávamos abrindo a mão da qualidade. Mas na verdade não, nós estávamos apenas deixando para aplicar qualidade no total somente ao que iríamos incorporar no produto final.
 * Entender o que era o mínimo do ponto de vista de desenvolvimento, pois, sempre tinha aquele desejo de deixar o melhor possível ou já adiantar algo para a fase de refinamento.
 
+## Resultados obtidos
+
+Após a implantação deste novo processo de desenvolvimento, nosso leadtime de experimentos foi otimizado de maneira expressiva, diminuindo de 30 para 5 dias úteis.
 
 ## Contatos importantes que podem compartilhar mais informação ou experiências sobre o tema.
 
