@@ -80,3 +80,7 @@ Após a implantação deste novo processo de desenvolvimento, nosso leadtime de 
 
 **Email**: claudineij@ciandt.com
 **Fone:**
+
+## Referências relevantes para consulta
+
+[Big picture software testing: unit-testing, Lean Startup, and everything in-between](https://dev.to/codewithoutrules/big-picture-software-testing-unit-testing-lean-startup-and-everything-in-between)
