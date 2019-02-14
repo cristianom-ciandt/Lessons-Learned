@@ -4,28 +4,23 @@
 
 Os cases compartilhados estão organizados por temas e podem ser encontrados nos links abaixo ou podem ser pesquisados por palavras chave na busca do repositório:
 
-[Cloud]()
+[Cloud](https://github.com/cristianom-ciandt/Lessons-Learned/tree/master/Cloud)
 
-[Container-Orchestration]()
+[Container-Orchestration](https://github.com/cristianom-ciandt/Lessons-Learned/tree/master/Container-Orchestration)
 
-[Database]()
+[Database](https://github.com/cristianom-ciandt/Lessons-Learned/tree/master/Database)
 
-[DevOps]()
+[DevOps](https://github.com/cristianom-ciandt/Lessons-Learned/tree/master/DevOps)
 
-[Event Storming]()
+[Engineering](https://github.com/cristianom-ciandt/Lessons-Learned/tree/master/Engineering)
 
-[Event Store]()
+[Microservices](https://github.com/cristianom-ciandt/Lessons-Learned/tree/master/Microservices)
 
-[Engineering]()
 
-[Microservices]()
+[Plataform Modernization](https://github.com/cristianom-ciandt/Lessons-Learned/tree/master/Plataform-Modernization)
 
-[Mobile]()
+[Quality Assurance](https://github.com/cristianom-ciandt/Lessons-Learned/tree/master/Quality-Assurance)
 
-[Plataform Modernization]()
+[Service Broker](https://github.com/cristianom-ciandt/Lessons-Learned/tree/master/Service-Broker)
 
-[Quality Assurance]()
-
-[Service Broker]()
-
-[Test Pyramid]()
+[Test Pyramid](https://github.com/cristianom-ciandt/Lessons-Learned/tree/master/Test-Pyramid)
