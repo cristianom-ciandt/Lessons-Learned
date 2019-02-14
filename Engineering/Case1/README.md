@@ -80,7 +80,3 @@ Após a implantação deste novo processo de desenvolvimento, nosso leadtime de 
 
 **Email**: claudineij@ciandt.com
 **Fone:**
-
-
-## Referências relevantes para consulta
-
