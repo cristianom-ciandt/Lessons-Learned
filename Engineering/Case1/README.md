@@ -25,7 +25,7 @@ Então, após bastante estudo e reflexões, decidimos modificar nosso processo d
 
 **1. Modificação de mind set:**
 
-A principal mudança de mind set, consistiu-se em ***não buscar a perfeição no primeiro momento***, pois, se tratando de experimentos, nos não tinhamos a certeza que iriam ter sucesso ou falha, com isto, decidimos fazer um mínimo possível.
+A principal mudança de mind set, consistiu-se em ***não buscar a perfeição no primeiro momento***, pois, se tratando de experimentos, nos não tinhamos a certeza que iriam ter sucesso ou falha, com isto, decidimos fazer o mínimo possível.
 
 **2.  Linha rápida:**
 
@@ -46,7 +46,7 @@ Uma vez que nossos experimentos comprovavam sucesso, o código entrava em uma li
 
 * A refatoração acontecia visando qualidade e mantenabilidade de código;
 * Em alguns casos faziamos até rescrita completa;
-* Nesta etapa, faziamos também, a cobertura de código com testes automatizados, visando agora garantir a conformidade de requisitos e a confiabilidade da suite de testes;
+* Nesta etapa, faziamos também, a cobertura de código com testes automatizados, visando garantir a conformidade de requisitos e a confiabilidade da suite de testes;
 * Refinamentos de design também eram aplicados caso fosse necessário.
 
 Desta forma, uma vez que a uma feature passasse por todos refinamentos necessários, ela passava a incorporar o produto final e era liberada para todos usuários.
@@ -75,6 +75,12 @@ Após a implantação deste novo processo de desenvolvimento, nosso leadtime de 
 
 **Email**: fsalvador@ciandt.com
 **Fone:**
+
+**Claudinei**
+
+**Email**: claudineij@ciandt.com
+**Fone:**
+
 
 ## Referências relevantes para consulta
 
