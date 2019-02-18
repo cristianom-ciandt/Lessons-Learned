@@ -23,3 +23,24 @@ Os cases compartilhados estão organizados por temas e podem ser encontrados nos
 [Service Broker](https://github.com/cristianom-ciandt/Lessons-Learned/tree/master/Subjects/Service-Broker)
 
 [Test Pyramid](https://github.com/cristianom-ciandt/Lessons-Learned/tree/master/Subjects/Test-Pyramid)
+
+# Instruções para a escrita de cases:
+
+## Diagrama da organização da organização de assuntos/temas:
+![Folder Structure](Subjects/Assets/Folder_Structure.JPG)
+
+## Caso não exista um tema específico para adicionar o novo case:
+
+* Utilize o template de tema;
+* Utilize o template de case;
+
+## Caso já exista um tema específico para adicionar o novo case:
+
+* Utilize o template de case;
+
+## Extensão útil para o visual studio code:
+* Markdown Preview Github Styling
+
+## Após finalizar a preparação do conteúdo case, adicione:
+
+O link para o case no arquivo README..MD da pasta do tema.
