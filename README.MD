@@ -29,10 +29,17 @@ Os cases compartilhados estão organizados por temas e podem ser encontrados nos
 ## Diagrama da organização da organização de assuntos/temas:
 ![Folder Structure](Subjects/Assets/Folder_Structure.JPG)
 
+## Exemplos de cases:
+
+[Reduzindo o leadtime da construção de experimentos](https://github.com/cristianom-ciandt/Lessons-Learned/tree/master/Subjects/Engineering/Case1/)
+
 ## Caso não exista um tema específico para adicionar o novo case:
 
-* Utilize o template de tema;
-* Utilize o template de case;
+* [Utilize o template de tema](https://github.com/cristianom-ciandt/Lessons-Learned/tree/master/Subjects/Tema%20Template);
+
+* [Utilize o template de case](https://github.com/cristianom-ciandt/Lessons-Learned/tree/master/Subjects/Case%20Template);
+
+* Após finalizar a estruturação do tema, adicione o link para o tema no arquivo README..MD da pasta raiz.
 
 ## Caso já exista um tema específico para adicionar o novo case:
 

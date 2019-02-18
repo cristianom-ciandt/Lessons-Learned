@@ -3,9 +3,16 @@
 * Word2
 * Word3
 
+Obs.: Adicione palavras relevantes para facilitar a busca do case dentro do repositório.
+
 ## Colaboradores
 
+* Pessoa 1
+* Pessoa 2
+
 ## Case
+
+Obs.: Descreva o contexto e os detalhes do case. Se tiver a necessidade de utilizar imagens, use a pasta assets do case para adicionar as mesmas.
 
 ## Principais desafios
 
