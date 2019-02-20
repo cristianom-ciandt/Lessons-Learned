@@ -16,11 +16,11 @@ Os cases compartilhados estão organizados por temas e podem ser encontrados nos
 
 [Microservices](https://github.com/cristianom-ciandt/Lessons-Learned/tree/master/Subjects/Microservices)
 
-[Plataform Modernization](https://github.com/cristianom-ciandt/Lessons-Learned/tree/master/Subjects/Plataform-Modernization)
+[Platform Modernization](https://github.com/cristianom-ciandt/Lessons-Learned/tree/master/Subjects/Platform-Modernization)
 
 [Quality Assurance](https://github.com/cristianom-ciandt/Lessons-Learned/tree/master/Subjects/Quality-Assurance)
 
-[Service Broker](https://github.com/cristianom-ciandt/Lessons-Learned/tree/master/Subjects/Service-Broker)
+[Message Broker](https://github.com/cristianom-ciandt/Lessons-Learned/tree/master/Subjects/Message-Broker)
 
 [Test Pyramid](https://github.com/cristianom-ciandt/Lessons-Learned/tree/master/Subjects/Test-Pyramid)
 
