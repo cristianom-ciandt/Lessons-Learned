@@ -1,2 +1,2 @@
 
-[Resolvendo problemas de concorrência em filas de mensagens](https://github.com/cristianom-ciandt/Lessons-Learned/tree/master/Subjects/Message-Broker/Case1/)
+[Resolvendo problemas de consumidores concorrentes em filas de mensagens numa arquitetura de microserviços](https://github.com/cristianom-ciandt/Lessons-Learned/tree/master/Subjects/Message-Broker/Case1/)

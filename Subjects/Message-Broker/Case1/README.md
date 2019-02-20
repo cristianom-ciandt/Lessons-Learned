@@ -1,4 +1,4 @@
-# Resolvendo problemas de concorrência em filas de mensagens
+# Resolvendo problemas de consumidores concorrentes em filas de mensagens numa arquitetura de microserviços
 
 ## Palavras chave
 * Concorrência

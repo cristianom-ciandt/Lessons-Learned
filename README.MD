@@ -33,7 +33,7 @@ Os cases compartilhados estão organizados por temas e podem ser encontrados nos
 
 [Reduzindo o leadtime da construção de experimentos](https://github.com/cristianom-ciandt/Lessons-Learned/tree/master/Subjects/Engineering/Case1/)
 
-[Resolvendo problemas de concorrência em filas de mensagens](https://github.com/cristianom-ciandt/Lessons-Learned/tree/master/Subjects/Message-Broker/Case1/)
+[Resolvendo problemas de consumidores concorrentes em filas de mensagens numa arquitetura de microserviços](https://github.com/cristianom-ciandt/Lessons-Learned/tree/master/Subjects/Message-Broker/Case1/)
 
 ## Caso não exista um tema específico para adicionar o novo case:
 
