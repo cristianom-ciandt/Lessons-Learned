@@ -1,4 +1,4 @@
-# Pattners para Comunicação entre Microserviços
+# Comunicação entre processos de microserviços - Desafios & Estratégias
 
 ## Palavras chave:
 * Microserviços
@@ -10,13 +10,18 @@
 
 ## Case
 
-Um dos aspectos mais importantes de uma arquitetura de Microserviços é a comunicação entre serviços. 
+Uma das principais vantagens que a arquitetura de microserviços trás é o isolamento dos serviços. Uma vez que um Microserviço está enfrentando um problema de sobrecarga, lentidão ou indisponibilidade, nenhum outro Microserviço deveria ser afetado. 
 
-No cenário do Goal os dados de card do Jira eram replicados entre os Microserviços para que cada um pudesse executar sua logica, montar seus dados e prover as informações via API. Tinhamos também o caso em que para atender uma requisição, o Microserviço buscava informações em outros microserviços para compor o resultado.
+Para que tenha um isolamento, os serviços precisam se comunicar. Um dos aspectos mais importantes de uma arquitetura de Microserviços é a comunicação entre serviços. 
 
-Uma das principais vantagens que a arquitetura de microserviços trás é o isolamento. Uma vez que um Microserviço está enfrentando um problema de sobrecarga, lentidão ou indisponibilidade, nenhum outro Microserviço deveria ser afetado.
+No ecossistema de microserviços do Goal, tínhamos uma cenário onde  alguns microserviços se comunicavam para:  
+* Replicar dados;
+* Compor dados para visualização em reports ou telas do sistema;
+* Obter informações para validações;
 
-No caso do Goal não tinhamos esse isolamento total e havia uma sobrecarga muito grande em um Microserviço especifico. Toda vez que esse Microserviço enfrentava lentidões ou indisponibilidade, todos os outros eram afetados e o que deveria ser apenas uma parte do sistema, ele como todo enfrentava lentidão.
+A estratégia de comunicação inicial adotada, foi via requisições HTTP e na medida que o sistema escalou(quantidade de usuários, quantidade de projetos, operações de sincronização, etc...) passamos a ter as dores e os desafios detalhados na próxima sessão.
+
+No Goal não tinhamos esse isolamento de todos os serviços e havia uma sobrecarga muito grande em um serviço especifico. Sempre que esse serviço enfrentava lentidões ou indisponibilidade, todos os outros que dependiam dele, eram afetados.
 
 ## Solução ou Detalhamento da experiência vivenciada
 
@@ -28,7 +33,7 @@ Era o que usavamos no Goal, o Microserviço X faz um request para o Microserviç
 O recomendado é que se analise bem o uso dessa abordagem e se caso seja a melhor abordagem, não crie uma chain of requests.
 
 **Asynchronous protocol**
-Protocolo como AMQP que usa mensagem assincrona. O Microserviço X se comunica com o Microserviço Y via menssageria. Esse abordagem tem o beneficio de caso o Microserviço Y esteja enfrentando problemas de lentidão ou até esteja indisponível, assim que tudo voltar ao normal ele volta a consumir as mensagens da fila.
+Protocolo como AMQP que usa mensagem assincrona. O Microserviço X se comunica com o Microserviço Y via mensageria. Esse abordagem tem o beneficio de caso o Microserviço Y esteja enfrentando problemas de lentidão ou até esteja indisponível, assim que tudo voltar ao normal ele volta a consumir as mensagens da fila.
 
 ## Contatos importantes que podem compartilhar mais informação ou experiências sobre o tema.
 
@@ -43,3 +48,5 @@ Protocolo como AMQP que usa mensagem assincrona. O Microserviço X se comunica c
 **Claudinei**
 
 **Email**: claudineij@ciandt.com
+
+## Referências relevantes para consulta
