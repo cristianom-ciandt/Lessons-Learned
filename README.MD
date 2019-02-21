@@ -26,7 +26,7 @@ Os cases compartilhados estão organizados por temas e podem ser encontrados nos
 
 # Instruções para a escrita de cases:
 
-## Diagrama da organização da organização de assuntos/temas:
+## Diagrama da organização de assuntos/temas:
 ![Folder Structure](Subjects/Assets/Folder_Structure.JPG)
 
 ## Exemplos de cases:
