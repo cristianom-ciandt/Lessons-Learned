@@ -46,3 +46,8 @@ fsalvador@ciandt.com
 
 **Claudinei**<br/>
 claudineij@ciandt.com
+
+## Referências
+[Microservice Patterns - Cap. 3.3.5: Competing receivers and message ordering](https://www.amazon.com/Microservices-Patterns-examples-Chris-Richardson/dp/1617294543)
+
+[ActiveMQ - Message groups](http://activemq.apache.org/message-groups.html)
