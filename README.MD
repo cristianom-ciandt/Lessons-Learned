@@ -35,6 +35,8 @@ Os cases compartilhados estão organizados por temas e podem ser encontrados nos
 
 [Resolvendo problemas de consumidores concorrentes em filas de mensagens numa arquitetura de microserviços](https://github.com/cristianom-ciandt/Lessons-Learned/tree/master/Subjects/Message-Broker/Case1/)
 
+[Comunicação entre processos de microserviços - Desafios & Estratégias](https://github.com/cristianom-ciandt/Lessons-Learned/tree/master/Subjects/Microservices/Case1/)
+
 ## Caso não exista um tema específico para adicionar o novo case:
 
 * [Utilize o template de tema](https://github.com/cristianom-ciandt/Lessons-Learned/tree/master/Subjects/Tema%20Template);
